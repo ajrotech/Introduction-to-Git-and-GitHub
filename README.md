@@ -12,6 +12,7 @@ The repository contains the summary of _Shahzad's ([@shaizCodes](https://github.
 | [`git commit -m "commit title" -m "commit description"`](#commit) | commits the staged files into a snapshot |
 | [`git remote show`](#remote) | lists remote servers if any |
 | [`git remote add`](#remote) | defines a remote server |
+| [`git push`](#push) | sends local repository changes to remote repository |
 
 ## Screenshots
 
@@ -37,3 +38,6 @@ The repository contains the summary of _Shahzad's ([@shaizCodes](https://github.
   - > ![`git remote show` lists the remote servers](./ScreenShots/remote-show.png)
   - > ![`git remote add` defines a remote server](./ScreenShots/remote-add.png)
 
+- ### push
+
+  - > !['git push' sends local repository changes to remote repository](./ScreenShots/push.png)
