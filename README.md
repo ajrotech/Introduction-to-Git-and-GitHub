@@ -11,9 +11,10 @@ The repository contains the summary of _Shahzad's ([@shaizCodes](https://github.
 | [`git add <file>`](#add) | stages the space-separated files of working tree |
 | [`git commit -m "commit title" -m "commit description"`](#commit) | commits the staged files into a snapshot |
 | [`git remote show`](#remote) | lists remote servers if any |
-| [`git remote add`](#remote) | defines a remote server |
-| [`git rm`](#rm) | removes the file from staging area not from working directory|
-| [`git rm-f`](#rm-f) | forcefully removes the file from working directory|
+| [`git remote add <repo-URL>`](#remote) | defines a remote server |
+| [`git rm --cached <file>`](#rm) | removes the file from staging area not from working directory |
+| [`git rm -f <file>`](#rm-f) | forcefully removes the file from working directory |
+| [`git mv <source-file> <target-file>`](#mv) | moves or renames the source file to the target path or file |
 
 ## Screenshots
 
@@ -47,3 +48,7 @@ The repository contains the summary of _Shahzad's ([@shaizCodes](https://github.
 
    - > !['git rm cached' removes the cache file from staging area](./ScreenShots/rm-cached.png)
   - > !['git rm -f' forcefully removes the cache file from working directory](./ScreenShots/rm-f.png)
+
+- ### mv
+
+   - > !['git mv <file> <file>' renames the file](./ScreenShots/mv.png)
