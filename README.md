@@ -12,7 +12,8 @@ The repository contains the summary of _Shahzad's ([@shaizCodes](https://github.
 | [`git commit -m "commit title" -m "commit description"`](#commit) | commits the staged files into a snapshot |
 | [`git remote show`](#remote) | lists remote servers if any |
 | [`git remote add`](#remote) | defines a remote server |
-| [`git push`](#push) | sends local repository changes to remote repository |
+| [`git rm`](#rm) | removes the file from staging area not from working directory|
+| [`git rm-f`](#rm-f) | forcefully removes the file from working directory|
 
 ## Screenshots
 
@@ -44,4 +45,8 @@ The repository contains the summary of _Shahzad's ([@shaizCodes](https://github.
 
 - ### rm
 
-  - > !['git rm --cached <file>' removes file cache/history from staging area](./ScreenShots/rm-cached.png)
+   - > !['git rm chched' removes the cache file from staging area](./ScreenShots/rm%20cached.png)
+
+- ### rm -f
+
+  - > !['git rm -f' forcefully removes the cache file from working directory](./ScreenShots/git%20rm.png)
