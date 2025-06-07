@@ -18,6 +18,7 @@ The repository contains the summary of _Shahzad's ([@shaizCodes](https://github.
 | [`git branch`](#branch) | lists the local branches of the repository |
 | [`git branch --all`](#branch) | lists all the branches of repository including remote |
 | [`git branch <branch-name>`](#branch) | creates a new branch in current repository |
+| [`git checkout <target-branch-name>`](#checkout) | activates the target branch |
 
 ## Screenshots
 
@@ -62,3 +63,6 @@ The repository contains the summary of _Shahzad's ([@shaizCodes](https://github.
    - > !['git branch' lists branches of the local repository](./ScreenShots/branch-all.png)
    - > !['git branch <branch-name>' creates a new branch by the name <branch-name>](./ScreenShots/branch-new.png)
 
+- ### checkout
+
+   - > !['git checkout <branch-name>' activates a branch named <branch-name>](./ScreenShots/checkout-branch.png)
