@@ -41,3 +41,7 @@ The repository contains the summary of _Shahzad's ([@shaizCodes](https://github.
 - ### push
 
   - > !['git push' sends local repository changes to remote repository](./ScreenShots/push.png)
+
+- ### rm
+
+  - > !['git rm --cached <file>' removes file cache/history from staging area](./ScreenShots/rm-cached.png)
