@@ -15,6 +15,9 @@ The repository contains the summary of _Shahzad's ([@shaizCodes](https://github.
 | [`git rm --cached <file>`](#rm) | removes the file from staging area not from working directory |
 | [`git rm -f <file>`](#rm-f) | forcefully removes the file from working directory |
 | [`git mv <source-file> <target-file>`](#mv) | moves or renames the source file to the target path or file |
+| [`git branch`](#branch) | lists the local branches of the repository |
+| [`git branch --all`](#branch) | lists all the branches of repository including remote |
+| [`git branch <branch-name>`](#branch) | creates a new branch in current repository |
 
 ## Screenshots
 
@@ -52,3 +55,10 @@ The repository contains the summary of _Shahzad's ([@shaizCodes](https://github.
 - ### mv
 
    - > !['git mv <file> <file>' renames the file](./ScreenShots/mv.png)
+
+- ### branch
+
+   - > !['git branch' lists branches of the local repository](./ScreenShots/branch.png)
+   - > !['git branch' lists branches of the local repository](./ScreenShots/branch-all.png)
+   - > !['git branch <branch-name>' creates a new branch by the name <branch-name>](./ScreenShots/branch-new.png)
+
