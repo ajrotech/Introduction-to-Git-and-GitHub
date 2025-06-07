@@ -45,8 +45,5 @@ The repository contains the summary of _Shahzad's ([@shaizCodes](https://github.
 
 - ### rm
 
-   - > !['git rm chched' removes the cache file from staging area](./ScreenShots/rm%20cached.png)
-
-- ### rm -f
-
-  - > !['git rm -f' forcefully removes the cache file from working directory](./ScreenShots/git%20rm.png)
+   - > !['git rm cached' removes the cache file from staging area](./ScreenShots/rm-cached.png)
+  - > !['git rm -f' forcefully removes the cache file from working directory](./ScreenShots/rm-f.png)
